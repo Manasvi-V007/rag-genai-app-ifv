@@ -1,0 +1,10 @@
+streamlit
+google-genai
+faiss-cpu
+python-dotenv
+langchain
+langchain-community
+beautifulsoup4
+requests
+numpy
+scikit-learn
